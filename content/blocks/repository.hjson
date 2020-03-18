@@ -1,0 +1,13 @@
+type: Vault
+name: Repository
+description: Stores a gigantic amount of items of each type. An unloader block can be used to retrieve items from the repository.
+size: 5
+requirements: [
+  titanium/700
+  silicon/500
+  thorium/350
+  plastanium/150
+]
+itemCapacity: 4000
+category: effect
+research: vault
