@@ -1,0 +1,11 @@
+type: Vault
+name: Large Vault
+description: Stores a huge amount of items of each type. An unloader block can be used to retrieve items from the large vault.
+size: 4
+requirements: [
+  titanium/400
+  silicon/350
+  thorium/200
+]
+category: effect
+research: vault
